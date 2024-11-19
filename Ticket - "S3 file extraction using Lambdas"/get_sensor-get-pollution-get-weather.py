@@ -1,7 +1,8 @@
-import boto3
 import os
-import time
 from concurrent.futures import ThreadPoolExecutor
+
+import boto3
+
 
 def copy_object(s3_client, source_bucket, destination_bucket, source_key, destination_key):
     try:
