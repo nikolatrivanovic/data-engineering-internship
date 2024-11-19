@@ -15,9 +15,7 @@ def copy_object(s3_client, source_bucket, destination_bucket, source_key, destin
 
 
 def lambda_handler(event, context):
-    start_time = time.time()
     s3_client = boto3.client('s3', region_name='eu-north-1')
-
     source_bucket = "nine-air-weather-data"
     destination_bucket = "bucket-14-11-nt-v2"
     folder_prefix = os.environ['FOLDER_PREFIX']
