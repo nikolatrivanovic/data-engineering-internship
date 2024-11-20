@@ -1,0 +1,1 @@
+*Dokumetnovane su komande koje sam koristio, nije executable jer sadrzi i komentare*
