@@ -10,8 +10,6 @@
 *Ovaj README je namenjen mentorima, posle cu srediti...* 
 
 **Organizacija:**
-- Direktorijumi se zovu kao ticketi, i u njima se nalaze Python datoteke sa odgovarajucim
-kodom
+- Direktorijumi se zovu kao ticketi, a pre toga redni broj koji nije redni broj tiketa nego hronoloski (nisu svi tiketi imali kod), i u njima se nalaze Python datoteke sa odgovarajucim
+kodom/dokumentima
 - U svakom direktorijumu se nalazi README sa napomenama vezanim za taj konkretni direktorijum
-
-
