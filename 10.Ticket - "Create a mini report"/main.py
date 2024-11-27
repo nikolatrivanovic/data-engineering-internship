@@ -1,7 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-file_path = 'avg.csv'
+file_path = 'result.csv'
 
 data = pd.read_csv(file_path)
 
